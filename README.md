@@ -17,7 +17,9 @@ Objective
 The goal is to maximize the number of annual members by converting casual cyclists into subscribers. To achieve this, an analysis of historical travel data will be conducted, answering the questions below about usage patterns and how to attract casual cyclists to annual subscription.
 
 1.How do annual members and casual cyclists use Cyclistic bikes differently?
+
 2.Why would casual cyclists purchase annual memberships from Cyclistic?
+
 3.How can Cyclistic use digital media to influence casual cyclists to become members?
 
 Analysis Results
